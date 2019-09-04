@@ -20,13 +20,15 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "onoff": "^4.1.1",
-    "mutexify": "^1.2.0"
+    "mutexify": "^1.2.0",
+    "onoff": "^4.1.1"
   },
   "devDependencies": {
+    "@types/mutexify": "^1.2.0",
     "@types/node": "^11.12.1",
     "async": "^2.6.2",
-    "jshint": "^2.10.2"
+    "jshint": "^2.10.2",
+    "typescript": "^3.4.1"
   },
   "keywords": [
     "lcd",
